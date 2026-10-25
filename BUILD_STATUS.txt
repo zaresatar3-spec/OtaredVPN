@@ -1,0 +1,4 @@
+STATUS: Android Studio starter project generated.
+Verified in this environment: source files written into ZIP.
+Not verified: Gradle build, emulator/device run, VPN tunnel, libbox integration.
+Do not treat Connect button as real VPN functionality in this version.
